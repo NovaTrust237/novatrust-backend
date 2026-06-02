@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls 'D:\\\\brunel\\\\NovaTrust\\\\InvestBank_Frontend' 2>&1 | head -50)",
+      "Read(//d/brunel/NovaTrust/InvestBank_Frontend/**)"
+    ]
+  }
+}
